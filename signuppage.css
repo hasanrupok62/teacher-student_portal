@@ -1,0 +1,68 @@
+.container{
+	width: 1170px;
+	margin: 0px auto;
+	
+	padding: 0px;
+}
+#table_div{
+	text-align: justify;
+}
+
+
+.banner{
+	margin: 0;
+	width: 1170px;
+	background-size: contain;
+	color: chocolate;
+	text-align: center;
+	padding: 15px 0px;
+	
+	height: 200px;
+	font-size: 300%;
+}
+
+#sign_form {
+    left:10%;
+    background-size: cover;
+    padding-top: 10%;
+}
+.sign_up {
+    
+    margin: 0px auto;
+   
+    padding-left: 180px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 500px;
+}
+.error{
+	color: #FF0000;
+	
+}
+#srhBox {
+    padding: 18px 25px;
+    /*background: rgba(29, 156, 140, 0.41)*/;
+    background: #ffffff;
+    border: 0px solid #000000;
+}
+
+#u_btn{
+	padding:12px 30px;
+                left:-8px;
+                border:2px solid #207cca;
+                background-color:#207cca;
+                color:#fafafa;
+}
+#u_btn:hover {
+	background-color:#fafafa;
+                color:#207cca;
+}
+
+
+body{
+	font-family: arial; font-size: 100%;  width: 100%; margin: 0;
+    background-color: #C7D2DA;
+	
+}
